@@ -135,7 +135,7 @@ var count_des_post = num_des_post.sort('system:time_start').toList(5000,0).lengt
 print("Number of pre-event ascending images: ", count_asc_pre  );
 print("Number of pre-event descending images: ", count_des_pre  );
 print("Number of post-event ascending images: ", count_asc_post  );
-print("Number of post-event ascending images: ", count_des_post  );
+print("Number of post-event descending images: ", count_des_post  );
 
 print(num_asc_pre,'Pre-event ascending');
 print(num_des_pre,'Pre-event descending');
