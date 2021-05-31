@@ -3,7 +3,8 @@
 * Rainfall event: 28 June 2018 – 9 July 2018
 * In this example, we define an AOI defined in "Geometry Imports" (see 
 * imports.js)
-* Code written by Mong-Han Huang, Department of Geology, mhhuang@umd.edu
+* Code written by Mong-Han Huang, Department of Geology, mhhuang@umd.edu and
+* Alexander L. Handwerger, UCLA/JPL, alhandwerger@g.ucla.edu
 */
  
 The scripts (imports.js & main.js) are part of the supplementary material of the paper submitted to NHESS in September, 2020.
